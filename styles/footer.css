@@ -1,0 +1,31 @@
+.footer {
+    font-family: Roboto, Arial;
+    color: black;
+    background-color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.container {
+    display: inline-block;
+    padding: 20px;
+}
+
+.text {
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.twitter {
+    height: 35px;
+}
+
+.github {
+    height: 40px;
+}
